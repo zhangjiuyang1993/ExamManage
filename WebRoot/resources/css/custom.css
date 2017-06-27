@@ -1,0 +1,18 @@
+
+
+
+.navbar .brand {
+  margin-top: 20px;
+  padding-bottom: 8px;
+  max-height: 40px;
+  width: auto;
+}
+.navbar .navbar-inner {
+  height: 80px;
+  background: white;
+  filter: none;
+}
+/* line 54, ../sass/typica-login.scss */
+.navbar .nav {
+  margin-top: 20px;
+}
